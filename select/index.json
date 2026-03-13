@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Brand New Days【P3F】",
+  "base_artist": "川村ゆみ",
+  "createdAt": "2026-03-13T12:52:33.685756Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brand New Days【P3F】",
+      "artist": "川村ゆみ",
+      "has_synced": true,
+      "path": "select/01_Brand_New_Days【P3F】_川村ゆみ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brand New Days 【P3F】",
+      "artist": "Yumi Kawamura",
+      "has_synced": true,
+      "path": "select/02_Brand_New_Days_【P3F】_Yumi_Kawamura.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brand New Days【P3F】",
+      "artist": "Yumi Kawamura",
+      "has_synced": true,
+      "path": "select/03_Brand_New_Days【P3F】_Yumi_Kawamura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brand New Days【P3F】",
+      "artist": "川村ゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_Brand_New_Days【P3F】_川村ゆみ.txt"
+    }
+  ]
+}
